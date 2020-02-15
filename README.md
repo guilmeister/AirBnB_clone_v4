@@ -218,6 +218,7 @@ github repo
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 * Veronica mejia, [veromejia](https://github.com/veromejia) | [@veromejia86](https://twitter.com/veromejia86)
+* Edward Guillermo, [guilmeister](https://github.com/guilmeister) | [@guilmeister](https://twitter.com/guilmeister)
 
 ## License
 
